@@ -7,7 +7,7 @@
     🔧 - Using this space to evolve my coding skills and learn new programming languages, frameworks, etc.
     </div>
     <div style="display: inline_block"><br>
-        <a href="https://www.linkedin.com/in/galvao845/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/fonteeboa/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
 <hr>
 <div>
