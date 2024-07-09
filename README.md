@@ -31,7 +31,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo" title="Vue.js" />
 </div>
 
+<br>
+
 ⚙️ Backend
+
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go logo" title="Go" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" title="Node.js" />
@@ -39,6 +42,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="40" alt="Perl logo" title="Perl" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" title="Python" />
 </div>
+
+<br>
+
 🗄️ Databases
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" title="PostgreSQL" />
@@ -47,6 +53,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle logo" title="Oracle" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" title="SQLite" />
 </div>
+
+<br>
 
 🛠️ Tools & Utilities
 <div align="left">
