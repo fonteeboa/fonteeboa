@@ -19,6 +19,15 @@
 
 <img src="https://raw.githubusercontent.com/fonteeboa/fonteeboa/output/snake.svg" alt="Snake animation" />
 
+### 📕  Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+You can find the same posts in pt_br in my repo: [dev-insights](https://github.com/fonteeboa/dev-insights)
+
+<hr>
+
 ### 🚀 Most Used Languages and Tools
 
 <div align="left">
@@ -53,15 +62,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" title="Linux" />
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman" />
 </div>
-
-<hr>
-
-### 📕  Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-You can find the same posts in pt_br in my repo: [dev-insights](https://github.com/fonteeboa/dev-insights)
 
 <hr>
 
