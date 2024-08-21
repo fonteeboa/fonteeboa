@@ -22,6 +22,11 @@
 ### 📕  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🌍💻 Unleashing the Power of the Navigator Object in JavaScript](https://dev.to/fonteeboa/unleashing-the-power-of-the-navigator-object-in-javascript-464i)
+- [💡📖 Essential Git Commands: Your Go-To Cheat Sheet for Efficient Version Control](https://dev.to/fonteeboa/essential-git-commands-your-go-to-cheat-sheet-for-efficient-version-control-1iel)
+- [🌐🌟 Why Does Git Dominate? A Curious Look at Its Advantages and Alternatives](https://dev.to/fonteeboa/why-does-git-dominate-a-curious-look-at-its-advantages-and-alternatives-53hh)
+- [⏰💻 Cron.d &lpar;Task Automation in the Linux Environment&rpar;](https://dev.to/fonteeboa/crond-task-automation-in-the-linux-environment-5569)
+- [🔐🧩 Using let, const, and var in Your Code Development](https://dev.to/fonteeboa/using-let-const-and-var-in-your-code-development-4b9o)
 <!-- BLOG-POST-LIST:END -->
 
 You can find the same posts in pt_br in my repo: [dev-insights](https://github.com/fonteeboa/dev-insights)
