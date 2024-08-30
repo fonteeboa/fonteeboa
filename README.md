@@ -35,7 +35,7 @@ You can find the same posts in pt_br in my repo: [dev-insights](https://github.c
 
 ### 🚀 Most Used Languages and Tools
 
-<div align="left">
+<div align="left" id="languages-tools">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" title="React" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" title="JavaScript" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" title="TypeScript" />
