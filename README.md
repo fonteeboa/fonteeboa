@@ -22,11 +22,11 @@
 ### 📕  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖💻 The Use of Artificial Intelligence in Daily Development: Transforming Challenges into Opportunities](https://dev.to/fonteeboa/the-use-of-artificial-intelligence-in-daily-development-transforming-challenges-into-opportunities-1ob1)
 - [🦫🚀 Golang Guide](https://dev.to/fonteeboa/golang-guide-a66)
 - [🗄️🚀 SQL vs NoSQL: Viability and Comparison](https://dev.to/fonteeboa/sql-vs-nosql-viability-and-comparison-gik)
 - [Node Backend Kickstart: A Submission for the Neon Open Source Starter Kit Challenge: Ultimate Starter Kit](https://dev.to/fonteeboa/node-backend-kickstart-a-submission-for-the-neon-open-source-starter-kit-challenge-ultimate-starter-kit-21c9)
 - [🌍💻 Unleashing the Power of the Navigator Object in JavaScript](https://dev.to/fonteeboa/unleashing-the-power-of-the-navigator-object-in-javascript-464i)
-- [💡📖 Essential Git Commands: Your Go-To Cheat Sheet for Efficient Version Control](https://dev.to/fonteeboa/essential-git-commands-your-go-to-cheat-sheet-for-efficient-version-control-1iel)
 <!-- BLOG-POST-LIST:END -->
 
 You can find the same posts in pt_br in my repo: [dev-insights](https://github.com/fonteeboa/dev-insights)
