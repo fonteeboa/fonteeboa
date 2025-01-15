@@ -22,11 +22,11 @@
 ### 📕  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🚨 The Dangers of Developers Relying Exclusively on AI Without Understanding Fundamental Concepts](https://dev.to/fonteeboa/the-dangers-of-developers-relying-exclusively-on-ai-without-understanding-fundamental-concepts-6m7)
 - [🚀🎉 Welcome to the Basic Guide: Converting HTML Files in PHP to React](https://dev.to/fonteeboa/welcome-to-the-basic-guide-converting-html-files-in-php-to-react-11e3)
 - [✍️🤖 Learn How to Improve Your Prompts and Get More Detailed and Relevant Responses](https://dev.to/fonteeboa/learn-how-to-improve-your-prompts-and-get-more-detailed-and-relevant-responses-4e2j)
 - [🤖💻 The Use of Artificial Intelligence in Daily Development: Transforming Challenges into Opportunities](https://dev.to/fonteeboa/the-use-of-artificial-intelligence-in-daily-development-transforming-challenges-into-opportunities-1ob1)
 - [🦫🚀 Golang Guide](https://dev.to/fonteeboa/golang-guide-a66)
-- [🗄️🚀 SQL vs NoSQL: Viability and Comparison](https://dev.to/fonteeboa/sql-vs-nosql-viability-and-comparison-gik)
 <!-- BLOG-POST-LIST:END -->
 
 You can find the same posts in pt_br in my repo: [dev-insights](https://github.com/fonteeboa/dev-insights)
