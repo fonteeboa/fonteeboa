@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is João Victor and I'm a Full Stack Developer from Brazil 👨‍🚀</h2>
 
 <p align="left">
-    <img src="https://visitcount.itsvg.in/api?id=fonteeboa&label=Profile%20Views&color=1&icon=3&pretty=true" />
+     <img src="https://komarev.com/ghpvc/?username=fonteeboa&color=brightgreen" alt="Visualizações do Perfil">
 </p>
 
 <div>
