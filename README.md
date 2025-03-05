@@ -22,11 +22,11 @@
 ### 📕  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀📈 Streamline Your Frontend Development with node-morph-api](https://dev.to/fonteeboa/streamline-your-frontend-development-with-node-morph-api-3157)
 - [🚀👨‍💻 Let me help you level up from junior!](https://dev.to/fonteeboa/let-me-help-you-level-up-from-junior-1jc2)
 - [🚀🛠Boost Your Regex Game with Regex Vault: A Library for Developers](https://dev.to/fonteeboa/boost-your-regex-game-with-regex-vault-a-library-for-developers-1k40)
 - [🚨 The Dangers of Developers Relying Exclusively on AI Without Understanding Fundamental Concepts](https://dev.to/fonteeboa/the-dangers-of-developers-relying-exclusively-on-ai-without-understanding-fundamental-concepts-6m7)
 - [🚀🎉 Welcome to the Basic Guide: Converting HTML Files in PHP to React](https://dev.to/fonteeboa/welcome-to-the-basic-guide-converting-html-files-in-php-to-react-11e3)
-- [✍️🤖 Learn How to Improve Your Prompts and Get More Detailed and Relevant Responses](https://dev.to/fonteeboa/learn-how-to-improve-your-prompts-and-get-more-detailed-and-relevant-responses-4e2j)
 <!-- BLOG-POST-LIST:END -->
 
 You can find the same posts in pt_br in my repo: [dev-insights](https://github.com/fonteeboa/dev-insights)
