@@ -22,11 +22,11 @@
 ### 📕  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [⚙️🚀Complete CI/CD Guide with YAML Pipelines &lpar;Azure DevOps, Jenkins, GitHub Actions&rpar;](https://dev.to/fonteeboa/complete-cicd-guide-with-yaml-pipelines-azure-devops-jenkins-github-actions-319g)
 - [Sonar Exporter: Solving SonarQube&#39;s Report Export Problem with Next.js](https://dev.to/fonteeboa/sonar-exporter-solving-sonarqubes-report-export-problem-with-nextjs-a5e)
 - [🚀📈 Streamline Your Frontend Development with node-morph-api](https://dev.to/fonteeboa/streamline-your-frontend-development-with-node-morph-api-3157)
 - [🚀👨‍💻 Let me help you level up from junior!](https://dev.to/fonteeboa/let-me-help-you-level-up-from-junior-1jc2)
 - [🚀🛠Boost Your Regex Game with Regex Vault: A Library for Developers](https://dev.to/fonteeboa/boost-your-regex-game-with-regex-vault-a-library-for-developers-1k40)
-- [🚨 The Dangers of Developers Relying Exclusively on AI Without Understanding Fundamental Concepts](https://dev.to/fonteeboa/the-dangers-of-developers-relying-exclusively-on-ai-without-understanding-fundamental-concepts-6m7)
 <!-- BLOG-POST-LIST:END -->
 
 You can find the same posts in pt_br in my repo: [dev-insights](https://github.com/fonteeboa/dev-insights)
