@@ -24,7 +24,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [📄🤖 Tesseract - submission for Google AI Studio](https://dev.to/fonteeboa/tesseract-submission-for-google-ai-studio-22od)
 - [⚙️🚀Complete CI/CD Guide with YAML Pipelines &lpar;Azure DevOps, Jenkins, GitHub Actions&rpar;](https://dev.to/fonteeboa/complete-cicd-guide-with-yaml-pipelines-azure-devops-jenkins-github-actions-319g)
-- [Sonar Exporter: Solving SonarQube&#39;s Report Export Problem with Next.js](https://dev.to/fonteeboa/sonar-exporter-solving-sonarqubes-report-export-problem-with-nextjs-a5e)
+- [🔍📊 Sonar Exporter: Solving SonarQube&#39;s Report Export Problem with Next.js](https://dev.to/fonteeboa/sonar-exporter-solving-sonarqubes-report-export-problem-with-nextjs-a5e)
 - [🚀📈 Streamline Your Frontend Development with node-morph-api](https://dev.to/fonteeboa/streamline-your-frontend-development-with-node-morph-api-3157)
 - [🚀👨‍💻 Let me help you level up from junior!](https://dev.to/fonteeboa/let-me-help-you-level-up-from-junior-1jc2)
 <!-- BLOG-POST-LIST:END -->
