@@ -22,11 +22,11 @@
 ### 📕  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [📊🔍 OpenSearch Dashboards: Optimizing Massive Data Queries &lpar;Big Data&rpar; with Asynchronous Search](https://dev.to/fonteeboa/opensearch-dashboards-optimizing-massive-data-queries-big-data-with-asynchronous-search-16ib)
 - [📬🔐Sending Emails in Microsoft 365 using OAuth 2.0 &lpar;and SMTP Relay&rpar;](https://dev.to/fonteeboa/sending-emails-in-microsoft-365-using-oauth-20-and-smtp-relay-3nba)
 - [📄🤖 Tesseract - submission for Google AI Studio](https://dev.to/fonteeboa/tesseract-submission-for-google-ai-studio-22od)
 - [⚙️🚀Complete CI/CD Guide with YAML Pipelines &lpar;Azure DevOps, Jenkins, GitHub Actions&rpar;](https://dev.to/fonteeboa/complete-cicd-guide-with-yaml-pipelines-azure-devops-jenkins-github-actions-319g)
 - [🔍📊 Sonar Exporter: Solving SonarQube&#39;s Report Export Problem with Next.js](https://dev.to/fonteeboa/sonar-exporter-solving-sonarqubes-report-export-problem-with-nextjs-a5e)
-- [🚀📈 Streamline Your Frontend Development with node-morph-api](https://dev.to/fonteeboa/streamline-your-frontend-development-with-node-morph-api-3157)
 <!-- BLOG-POST-LIST:END -->
 
 You can find the same posts in pt_br in my repo: [dev-insights](https://github.com/fonteeboa/dev-insights)
