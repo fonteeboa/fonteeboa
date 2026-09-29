@@ -22,11 +22,11 @@
 ### 📕  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🐳 🔄 Docker Desktop + WSL2 on Windows 11](https://dev.to/fonteeboa/docker-desktop-wsl2-on-windows-11-my-strongest-reset-4h15)
 - [🧠✨ Extending OpenSearch Dashboards: A Complete Plugin Guide](https://dev.to/fonteeboa/extending-opensearch-dashboards-a-complete-plugin-guide-5d77)
 - [Excellent post. Clear, thoughtful, and very accurate in capturing how different developer mindsets shape teams and software over time!!!](https://dev.to/fonteeboa/excellent-post-clear-thoughtful-and-very-accurate-in-capturing-how-different-developer-mindsets-1imm)
 - [📊🔍 OpenSearch Dashboards: Optimizing Massive Data Queries &lpar;Big Data&rpar; with Asynchronous Search](https://dev.to/fonteeboa/opensearch-dashboards-optimizing-massive-data-queries-big-data-with-asynchronous-search-16ib)
 - [📬🔐Sending Emails in Microsoft 365 using OAuth 2.0 &lpar;and SMTP Relay&rpar;](https://dev.to/fonteeboa/sending-emails-in-microsoft-365-using-oauth-20-and-smtp-relay-3nba)
-- [📄🤖 Tesseract - submission for Google AI Studio](https://dev.to/fonteeboa/tesseract-submission-for-google-ai-studio-22od)
 <!-- BLOG-POST-LIST:END -->
 
 You can find the same posts in pt_br in my repo: [dev-insights](https://github.com/fonteeboa/dev-insights)
